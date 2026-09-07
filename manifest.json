@@ -1,0 +1,10 @@
+{
+  "name": "Projeto 22:50",
+  "short_name": "22:50",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#111827",
+  "description": "Organizador de treino, dieta, peso e biomecânica para meta de 5 km.",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
